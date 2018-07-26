@@ -1,0 +1,7 @@
+.button{
+-fx-text-background: blue;
+}
+
+.alert-background-pane {
+    -fx-background-color: rgba(64, 64, 64, 0.50);
+}
